@@ -1,0 +1,13 @@
+# E:/毕设/pythonProject/NEU-DET_ENHANCED/data.yaml
+path: E:/毕设/pythonProject/NEU-DET
+train_yolov8n: train-LSKA/images
+val: val/images
+
+nc: 6
+names:
+  0: crazing
+  1: inclusion
+  2: patches
+  3: pitted_surface
+  4: rolled-in_scale
+  5: scratches
