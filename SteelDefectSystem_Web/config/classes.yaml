@@ -1,0 +1,24 @@
+# config/classes.yaml
+names:
+  - crazing
+  - inclusion
+  - patches
+  - pitted_surface
+  - rolled-in_scale
+  - scratches
+
+chinese_names:
+  - 裂纹
+  - 夹杂物
+  - 斑块
+  - 麻点表面
+  - 轧入氧化皮
+  - 划痕
+
+colors:
+  - [255, 0, 0]
+  - [0, 255, 0]
+  - [0, 0, 255]
+  - [255, 255, 0]
+  - [255, 0, 255]
+  - [0, 255, 255]
